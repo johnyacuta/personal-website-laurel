@@ -35,6 +35,11 @@ plugins:
   - jekyll-feed
 # Plaintro Theme Settings
 theme: plaintro
+menu:
+  - { name: "Home", url: "/" }
+  - { name: "Research", url: "/research/" }
+  - { name: "Portfolio", url: "/portfolio/" }
+  - { name: "Resume", url: "/resume.html" }
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
